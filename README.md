@@ -1,11 +1,13 @@
-# Requestium Pool
-#### Requestium ( requests + selenium + parsel )
-#### Pooling
+<p align="left">
+<h1>Requestium Pool</h1>
+<h2> Pooling + Requestium ( requests + selenium + parsel ) </h2>
+<img src="https://github.com/ConnorSMaynes/requestiumpool/blob/master/RequestiumPool.png" alt="RequestiumPooling" width="200" height="150">
+</p>
 
-<img src="https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png" alt="Requestium" width="200" height="100">
+========
 
-![Requestium](https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png)
-![Selenium](http://selenium-python.readthedocs.io/_static/logo.png)
+
+
 
 Very simple pooling scheme for working with multiple requestium Sessions. Reduce your time costs when running multiple sessions, while sticking to a number of instances you know your machine can handle.
 
