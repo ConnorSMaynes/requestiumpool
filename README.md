@@ -1,7 +1,9 @@
-# Requestium Pool - Requestium ( requests + selenium + parsel ) + Pooling
+# Requestium Pool
+#### Requestium ( requests + selenium + parsel )
+#### Pooling
 
-![Requestium](https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png | width=100 )
-![Selenium](http://selenium-python.readthedocs.io/_static/logo.png | width=100 )
+![Requestium](https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png)
+![Selenium](http://selenium-python.readthedocs.io/_static/logo.png)
 
 Very simple pooling scheme for working with multiple requestium Sessions. Reduce your time costs when running multiple sessions, while sticking to a number of instances you know your machine can handle.
 
@@ -66,7 +68,7 @@ RPool.stop()                # kill all requestium instances
 
 ### NOTES
 
-    `stop()` is multithreaded, but it can take a while with a lot of instances.
+    stop() is multithreaded, but it can take a while with a lot of instances.
     By reusing browsers that are already open, you can significantly reduce time costs.
 
 ## Similar Projects
