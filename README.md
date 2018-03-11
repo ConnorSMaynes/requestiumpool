@@ -4,11 +4,6 @@
 <img src="https://github.com/ConnorSMaynes/requestiumpool/blob/master/RequestiumPool.png" alt="RequestiumPooling" width="200" height="150">
 </p>
 
-========
-
-
-
-
 Very simple pooling scheme for working with multiple requestium Sessions. Reduce your time costs when running multiple sessions, while sticking to a number of instances you know your machine can handle.
 
 ## Methods
