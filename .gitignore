@@ -1,7 +1,0 @@
-.idea/
-*.pyc
-*.log
-.pypirc
-dist/
-build/
-*.egg-info/

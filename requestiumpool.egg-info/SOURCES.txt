@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+requestiumpool.egg-info/PKG-INFO
+requestiumpool.egg-info/SOURCES.txt
+requestiumpool.egg-info/dependency_links.txt
+requestiumpool.egg-info/top_level.txt
