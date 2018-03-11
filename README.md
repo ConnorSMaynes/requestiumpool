@@ -16,12 +16,6 @@ Very simple pooling scheme for working with multiple requestium Sessions. Reduce
 ## Installation
 
 ```bash
-pip install requestiumpool
-```
-
-or
-
-```bash
 pip install git+git://github.com/ConnorSMaynes/requestiumpool
 ```
 
