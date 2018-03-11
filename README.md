@@ -2,6 +2,8 @@
 #### Requestium ( requests + selenium + parsel )
 #### Pooling
 
+<img src="https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png" alt="Requestium" width="200" height="100">
+
 ![Requestium](https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png)
 ![Selenium](http://selenium-python.readthedocs.io/_static/logo.png)
 
